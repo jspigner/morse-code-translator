@@ -1,4 +1,4 @@
-# Create a morse code converter
+# Create a morse code translator
 
 # Define
 def convert_to_morse(code):
